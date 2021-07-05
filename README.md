@@ -26,3 +26,5 @@ The outcome of this analysis is a Random Forest Classifier model that predicts w
 
 ## References
 This project was helped enormously by the excellent resources provided in the Udacity Data Scientist nanodegree programme.  I also used many of the library documentation resources to assist with the coding (e.g. www.scikit-learn.org).  Wherever I used stackoverflow or similar community sites to solve problems I have provided a link in the Jupyter notebook.
+
+https://web.archive.org/web/20160417030218/http://ect.bell-labs.com/who/tkh/publications/papers/odt.pdf 1995 paper by Ho, Tin Kam - one of the first papers to propose Random Forests as an improvement to Decision Trees.
